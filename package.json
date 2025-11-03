@@ -1,0 +1,19 @@
+{
+  "name": "atividade-222",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvnicius-ship-it/atividade-222.git"
+  },
+  "author": "vinicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvnicius-ship-it/atividade-222/issues"
+  },
+  "homepage": "https://github.com/cvnicius-ship-it/atividade-222#readme"
+}
